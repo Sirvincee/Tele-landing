@@ -13,7 +13,6 @@ body{
     height: 10vh;
     display: flex;
     justify-content: space-between;
-    /* padding: 30px 500px 30px 500px; */
     padding-left: 90px;
     padding-right: 90px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -38,7 +37,6 @@ body{
 .description{
     width: 100vw;
     height: 70vh;
-    /* border: 2px solid red; */
     display: flex;
     background: black;
 }
